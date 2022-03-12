@@ -1,0 +1,21 @@
+.signup {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.signup-form{
+  height: 40vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+.signup-form input{
+  padding:5px;
+}
